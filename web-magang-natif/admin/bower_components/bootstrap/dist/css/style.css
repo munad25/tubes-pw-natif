@@ -1,0 +1,19 @@
+
+thead tr {
+	background-color: #454e5b;
+	border-radius: 5px 5px;
+	color: white;
+}
+ 
+ thead tr th{
+ 	text-align: left;
+ }
+
+ th.option{
+ 	width: 5%;
+ 	text-align: center;
+ }
+
+ .modal-dialog{
+    overflow-y: initial !important
+}

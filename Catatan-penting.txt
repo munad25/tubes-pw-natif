@@ -1,0 +1,3 @@
+Ganti variable $url pada file lib/mylib.php
+untuk menyesuaikan direktori project
+dan agar fungsi base_url() dapat berfungsi dengan baik

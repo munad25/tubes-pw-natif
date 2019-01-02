@@ -1,0 +1,31 @@
+body{
+	background-color: #efefef;
+	font-family: Cambria, Georgia, serif;
+}
+
+.box{
+	padding: 1%;
+	background-color: #FFFFFF;
+	border-radius: 3px;
+	box-shadow: 1px 1px 5px #d1d1d1;
+}
+
+.box-header{
+	padding: 1%;
+	margin-bottom: 2%;
+	border-bottom: 2px #d1d1d1 solid;
+}
+
+.box-body{
+	margin-bottom: 2%;
+}
+
+.option{
+	width: 10%;
+}
+
+/*thead tr {
+	background-color: #454e5b;
+	border-radius: 5px 5px;
+	color: white;
+}*/
